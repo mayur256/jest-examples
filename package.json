@@ -1,0 +1,14 @@
+{
+  "name": "jest-examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mayur256/jest-examples.git",
+  "author": "Mayur Upadhayay <mayur123a@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
