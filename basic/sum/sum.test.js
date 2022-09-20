@@ -2,7 +2,7 @@
 import { sum } from "./sum";
 
 // Test case - 1
-test('Correctly sums to numbers', () => {
+test('Correctly sums two numbers', () => {
     const num1 = 5;
     const num2 = 10;
     const sumResult = num1 + num2;
