@@ -8,4 +8,4 @@ export function fetchPokemons(pokemonCount = 150) {
     })
 }
 
-fetchPokemons();
+// fetchPokemons();
